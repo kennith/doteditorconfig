@@ -1,4 +1,4 @@
-```
+```ini
 # EditorConfig is awesome: http://EditorConfig.org
 
 # top-most EditorConfig file
